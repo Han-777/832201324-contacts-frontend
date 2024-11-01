@@ -61,5 +61,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - [Vue.js](https://vuejs.org/)
 - [Element UI](https://element.eleme.io/#/en-US)
-
-Feel free to modify this README file to better suit your project needs!
