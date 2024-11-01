@@ -53,10 +53,6 @@ Navigate to `http://localhost:8080` in your browser.
 
 Make sure your backend API is running at `http://localhost:8080` for the frontend to function correctly.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## ⚡ Acknowledgements
 
 - [Vue.js](https://vuejs.org/)
