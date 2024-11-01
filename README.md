@@ -9,7 +9,7 @@ This project is a user management dashboard built with Vue.js and Element UI. It
 - **Dialog Form**: A modal dialog for adding and editing user entries with validation.
 - **API Integration**: Communicates with a backend API for data management.
 
-## 🔭Installation
+## 🔭 Installation
 
 ### Prerequisites
 
@@ -37,14 +37,14 @@ npm run serve
 
 Navigate to `http://localhost:8080` in your browser.
 
-## 📫Usage
+## 📫 Usage
 
 - **Add Entry**: Click the "Add Entry" button to open the dialog and fill out the form.
 - **Edit Entry**: Click "Edit" next to any entry to modify it.
 - **Delete Entry**: Click "Delete" to remove an entry from the table.
 - **View Details**: Implement detail view logic in the `handleDetail` method as needed.
 
-## 📝API Endpoints
+## 📝 API Endpoints
 
 - **GET /user**: Retrieve a list of users.
 - **POST /user**: Create a new user entry.
@@ -53,11 +53,11 @@ Navigate to `http://localhost:8080` in your browser.
 
 Make sure your backend API is running at `http://localhost:8080` for the frontend to function correctly.
 
-## 📄License
+## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## ⚡Acknowledgements
+## ⚡ Acknowledgements
 
 - [Vue.js](https://vuejs.org/)
 - [Element UI](https://element.eleme.io/#/en-US)
